@@ -45,6 +45,15 @@ Mounted mirrors should look something like this:
 ![mirrors mounted side](https://github.com/user-attachments/assets/2a8d318b-bac2-47b8-ba51-ce8d3a550a8f)
 
 
+**Credits**
+
+Heavily inspired by this project, where if you don't own a 3D printer and live in UK you can order them directly from:
+https://uberniche.co.uk/mirror-mounts.html
+
+And a bit different concept (in my opinion not as good):
+https://www.caterham7diaries.com/post/eccles-mirror-mounts
+
+
 
 #### MIT License
 

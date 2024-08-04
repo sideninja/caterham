@@ -14,7 +14,8 @@ Here's a picture of my Caterham 340R in the wild.
 ## SPA Side Mirrors
 This project shares 3D files for improvements to the side mirrors. A new mount that mounts to the door hinges offers very rigid mirror mounting and eliminates shaking when driving. 
 
-[See the complete project here](https://github.com/sideninja/caterham/tree/37544dae41c97c425563cc10dcf6b5071327acb6/side%20mirrors)
+[**See the complete project here**](https://github.com/sideninja/caterham/tree/37544dae41c97c425563cc10dcf6b5071327acb6/side%20mirrors)
+
 
 ![hinge printing](https://github.com/user-attachments/assets/272a9866-d2ca-4fc1-ad8a-72337cab535c)
 

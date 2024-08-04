@@ -2,7 +2,12 @@
 
 This repository contains 3D files ready to be 3D printed and can be used to modify your Caterham 7. 
 
-This aims to share my work with others and involve the Caterham community in the open source. 
+This aims to share my work and love with others and involve the Caterham community in the open source. 
+
+Here's a picture of my Caterham 340R in the wild.
+
+![Screenshot 2024-08-04 at 13 33 33](https://github.com/user-attachments/assets/3ecf8264-cebd-4b44-bcab-84ba59a27009)
+
 
 ## Projects
 

@@ -1,4 +1,4 @@
-## Caterham 3D Upgrades
+# Caterham 3D Upgrades
 
 This repository contains 3D files ready to be 3D printed and can be used to modify your Caterham 7. 
 
@@ -9,9 +9,7 @@ Here's a picture of my Caterham 340R in the wild.
 ![Screenshot 2024-08-04 at 13 33 33](https://github.com/user-attachments/assets/3ecf8264-cebd-4b44-bcab-84ba59a27009)
 
 
-## Projects
-
-### Side mirrors
+## SPA Side Mirrors
 This project shares 3D files for improvements to the side mirrors. A new mount that mounts to the door hinges offers very rigid mirror mounting and eliminates shaking when driving. 
 
 [LINK](https://github.com/sideninja/caterham/tree/37544dae41c97c425563cc10dcf6b5071327acb6/side%20mirrors))

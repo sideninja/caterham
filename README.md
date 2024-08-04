@@ -1,3 +1,5 @@
+<img src="https://github.com/user-attachments/assets/f7894ad0-9bda-4bb8-aacc-1f5cbc7d8ae0" width="250">
+
 # Caterham 3D Upgrades
 
 This repository contains 3D files ready to be 3D printed and can be used to modify your Caterham 7. 
